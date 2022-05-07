@@ -1,0 +1,5 @@
+Servidor arriba. Hora: 00:02:06.608882300
+Discover recibido MAC: 8A:C8:89:D1:E0:7A Hora: 00:02:15.456679900
+Se envia offer a MAC: 8A:C8:89:D1:E0:7A Hora: 00:02:15.460583700 con la ip: 192.168.20.3 tiempo: 00:25
+Request recibido MAC: 8A:C8:89:D1:E0:7A Hora: 00:02:15.549901300
+Se envia nack a: 8A:C8:89:D1:E0:7A Hora: 00:02:15.549901300
