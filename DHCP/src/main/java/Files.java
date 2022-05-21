@@ -26,7 +26,7 @@ public class Files {
                     linea = br.readLine();
                 } else if (linea.equalsIgnoreCase("GATEWAY")) {
                     linea = br.readLine();
-                    subNet.setGateway(linea.replace(" ", ""));
+                    subNet.setGateway(linea);
                     linea = br.readLine();
                 } else if (linea.equalsIgnoreCase("MASK")) {
                     linea = br.readLine();
@@ -38,7 +38,7 @@ public class Files {
                     linea = br.readLine();
                     h = Integer.parseInt(linea);
                     for (int i = l; i <= h; i++) {
-                        subNet.addIPToList(new Ip(Utils.getBeginingRed(subNet.getIP())+ String.valueOf(i), false));
+                        subNet.addIPToList(new Ip(Utils.getBeginingRed(subNet.getIP())+ i, false));
                     }
                     linea = br.readLine();
 
@@ -62,16 +62,16 @@ public class Files {
                 }
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println(e.getMessage());
         } finally {
             try {
                 if (br != null) {
                     br.close();
                 }
             } catch (IOException e) {
-                e.printStackTrace();
+                System.out.println(e.getMessage());
             }
-        }//END TRY-CATCH
+        }
         return subNet;
     }
 
@@ -138,7 +138,7 @@ public class Files {
                 } //ENDIF
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println(e.getMessage());
         } finally {
             try {
                 if (br != null) {
@@ -148,7 +148,7 @@ public class Files {
                     fr.close();
                 }
             } catch (IOException e) {
-                e.printStackTrace();
+                System.out.println(e.getMessage());
             } //END TRY-CATCH
         }
         return subn;

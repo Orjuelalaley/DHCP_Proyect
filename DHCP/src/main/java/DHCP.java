@@ -4,7 +4,7 @@ import java.util.*;
 
 public class DHCP {
 
-    // Estructura del paquete
+    //Estructura del paquete
     private byte op; // Message op code 1 = bootrequest, 2 = bootreply
     private byte htype; // HW address type
     private byte hlen; // HW address length
@@ -46,10 +46,6 @@ public class DHCP {
         this.correcto = true;
     }
 
-    public byte getOp() {
-        return op;
-    }
-
     public void setOp(byte op) {
         this.op = op;
     }
@@ -70,10 +66,6 @@ public class DHCP {
         this.hlen = hlen;
     }
 
-    public byte getHops() {
-        return hops;
-    }
-
     public void setHops(byte hops) {
         this.hops = hops;
     }
@@ -84,10 +76,6 @@ public class DHCP {
 
     public void setXid(byte[] xid) {
         this.xid = xid;
-    }
-
-    public byte[] getSecs() {
-        return secs;
     }
 
     public void setSecs(byte[] secs) {
@@ -115,30 +103,8 @@ public class DHCP {
         this.ciaddr = ciaddr;
     }
 
-    public InetAddress getYiaddr() {
-        try {
-            return InetAddress.getByAddress(this.yiaddr.clone());
-        } catch (UnknownHostException e) {
-            e.printStackTrace();
-        }
-        return null;
-    }
-
     public void setYiaddr(byte[] yiaddr) {
         this.yiaddr = yiaddr;
-    }
-
-    public InetAddress getSiaddr() {
-        try {
-            return InetAddress.getByAddress(this.siaddr.clone());
-        } catch (UnknownHostException e) {
-            e.printStackTrace();
-        }
-        return null;
-    }
-
-    public void setSiaddr(byte[] siaddr) {
-        this.siaddr = siaddr;
     }
 
     public InetAddress getGiaddr() {
@@ -167,40 +133,8 @@ public class DHCP {
         this.chaddr = chaddr;
     }
 
-    public byte[] getSname() {
-        return sname;
-    }
-
-    public void setSname(byte[] sname) {
-        this.sname = sname;
-    }
-
-    public byte[] getFile() {
-        return file;
-    }
-
-    public void setFile(byte[] file) {
-        this.file = file;
-    }
-
-    public List<Option> getOptions() {
-        return options;
-    }
-
-    public void setOptions(ArrayList<Option> options) {
-        this.options = options;
-    }
-
     public void setOption(Option opt) {
         this.options.add(opt);
-    }
-
-    public byte[] getPadding() {
-        return padding;
-    }
-
-    public void setPadding(byte[] padding) {
-        this.padding = padding;
     }
 
     public InetAddress getAddress() {
@@ -247,7 +181,7 @@ public class DHCP {
             throw new IndexOutOfBoundsException("offset + longitud superan el tamaño de los datos");
         }
         if (datagram.getLength() < Constants.BOOTP_ABSOLUTE_MIN_LEN) {
-            throw new DHCPBadPacketException("Paquete muy peque�o");
+            throw new DHCPBadPacketException("Paquete muy pequeño");
         }
         if (datagram.getLength() > Constants.DHCP_MAX_MTU) {
             throw new DHCPBadPacketException("Paquete supera el tamaño maximo");

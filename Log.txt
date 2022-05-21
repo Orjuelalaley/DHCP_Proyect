@@ -1,5 +1,97 @@
-Servidor arriba. Hora: 00:02:06.608882300
-Discover recibido MAC: 8A:C8:89:D1:E0:7A Hora: 00:02:15.456679900
-Se envia offer a MAC: 8A:C8:89:D1:E0:7A Hora: 00:02:15.460583700 con la ip: 192.168.20.3 tiempo: 00:25
-Request recibido MAC: 8A:C8:89:D1:E0:7A Hora: 00:02:15.549901300
-Se envia nack a: 8A:C8:89:D1:E0:7A Hora: 00:02:15.549901300
+Servidor arriba. Hora: 11:39:37.833689
+Discover recibido MAC: 8A:C8:89:D1:E0:7A Hora: 11:39:43.183186500
+Se envia offer a MAC: 8A:C8:89:D1:E0:7A Hora: 11:39:43.187188200 con la ip: 192.168.1.13 tiempo: 00:25
+Request recibido MAC: 8A:C8:89:D1:E0:7A Hora: 11:39:43.282557800
+Se envia ack a: 8A:C8:89:D1:E0:7A Hora: 11:39:43.283569200 con ip: 192.168.1.13
+Discover recibido MAC: 00:50:56:C0:00:08 Hora: 11:39:48.992312200
+Se envia offer a MAC: 00:50:56:C0:00:08 Hora: 11:39:48.992312200 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:39:50.807792600
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:39:50.808792300 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:39:51.812698200
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:39:51.813697500 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:04 Hora: 11:39:52.105316600
+Se envia offer a MAC: 00:50:56:C0:00:04 Hora: 11:39:52.106331300 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:08 Hora: 11:39:52.680800
+Se envia offer a MAC: 00:50:56:C0:00:08 Hora: 11:39:52.681801600 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:39:54.788089100
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:39:54.789088600 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:39:56.462444500
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:39:56.463458600 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:39:58.738478900
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:39:58.739485 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:40:01.308441
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:40:01.309443100 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:08 Hora: 11:40:01.681973700
+Se envia offer a MAC: 00:50:56:C0:00:08 Hora: 11:40:01.682976400 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:40:06.739392200
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:40:06.740392600 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:40:10.316066
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:40:10.317072200 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:08 Hora: 11:40:18.664292600
+Se envia offer a MAC: 00:50:56:C0:00:08 Hora: 11:40:18.665292100 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:40:22.520378700
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:40:22.521391400 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:40:26.292746200
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:40:26.293746600 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:40:31.885038100
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:40:31.886037500 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:40:35.888583400
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:40:35.889583 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:40:36.886683700
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:40:36.887704600 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:40:39.876185800
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:40:39.877187100 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:40:41.825666500
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:40:41.826667900 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:40:44.805745300
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:40:44.806749800 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:40:49.319169700
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:40:49.320169600 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:40:52.458813900
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:40:52.459819 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:40:55.018657300
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:40:55.018657300 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:40:58.813422700
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:40:58.814438900 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:40:59.267727800
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:40:59.267727800 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:41:04.086364
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:41:04.087383200 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:41:04.693604200
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:41:04.694605100 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:41:06.821744400
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:41:06.822748400 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:41:09.345789500
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:41:09.346791700 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:41:11.906437800
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:41:11.907439800 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:06 Hora: 11:41:23.829556600
+Se envia offer a MAC: 00:50:56:C0:00:06 Hora: 11:41:23.830560100 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:05 Hora: 11:41:28.783792900
+Se envia offer a MAC: 00:50:56:C0:00:05 Hora: 11:41:28.784791100 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:41:36.585942100
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:41:36.585942100 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:41:40.596333
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:41:40.597337600 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:41:42.268582500
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:41:42.268582500 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:41:45.645041900
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:41:45.646051200 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:41:49.493543600
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:41:49.494546 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:03 Hora: 11:41:52.411624700
+Se envia offer a MAC: 00:50:56:C0:00:03 Hora: 11:41:52.412624800 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:41:53.259453400
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:41:53.260452300 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:03 Hora: 11:41:57.420779900
+Se envia offer a MAC: 00:50:56:C0:00:03 Hora: 11:41:57.421784 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:03 Hora: 11:42:02.408320200
+Se envia offer a MAC: 00:50:56:C0:00:03 Hora: 11:42:02.409320400 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:01 Hora: 11:42:06.448008100
+Se envia offer a MAC: 00:50:56:C0:00:01 Hora: 11:42:06.449009500 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:02 Hora: 11:42:08.774594200
+Se envia offer a MAC: 00:50:56:C0:00:02 Hora: 11:42:08.775609800 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:03 Hora: 11:42:09.787457100
+Se envia offer a MAC: 00:50:56:C0:00:03 Hora: 11:42:09.788459800 con la ip: 192.168.1.14 tiempo: 00:25
+Discover recibido MAC: 00:50:56:C0:00:03 Hora: 11:42:25.782654700
+Se envia offer a MAC: 00:50:56:C0:00:03 Hora: 11:42:25.783659400 con la ip: 192.168.1.14 tiempo: 00:25

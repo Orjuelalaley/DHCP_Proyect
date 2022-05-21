@@ -28,10 +28,6 @@ public class network {
 
     public void setTime(LocalTime time) {this.time = time;}
 
-    public void setListIP(List<Ip> IPbusy){
-        this.ListIP = IPbusy;
-    }
-
     public String getIP() {
         return IP;
     }

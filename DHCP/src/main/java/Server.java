@@ -1,4 +1,3 @@
-import org.jetbrains.annotations.NotNull;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
@@ -11,6 +10,8 @@ import java.util.*;
 
 
 public class Server {
+
+    //Atribute
     private final Map<String, String> ipsAsignadas; // <ip, mac>
     private final network server;
     private final List<network> subredes;
@@ -161,7 +162,7 @@ public class Server {
     }
 
     //ADDRESS IP LIBRE
-    public String buscarIpDisponible(@NotNull List<Ip> ips) {
+    public String buscarIpDisponible( List<Ip> ips) {
         for (Ip ip : ips) {
             if (!ip.getBusy())
                 return ip.getdir();

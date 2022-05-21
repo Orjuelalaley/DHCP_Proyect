@@ -7,6 +7,7 @@ public class Proyecto{
         //Se elimina el archivo log anterior para iniciar la ejecucion del servidor
         Files.deleteFile();
 
+        //Se pide memoria para crear el servidor
         Server server = new Server();
 
         System.out.println("Servidor Configurado con:\nIP: " +
